@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20vw" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjOWYwZTBiMTc0NmIwNzhjZWQ0ZjVjNDdkYzMzY2MxOWU5OGRkYiZjdD1n/1XCcD9VLQZ2Io/giphy.gif" width="20vw" />
 </div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/rmokroborodov/" >
@@ -15,3 +15,7 @@
  <div align="center">
  	<img src="https://komarev.com/ghpvc/?username=araah&style=flat-square&color=blue" alt=""/>
 </div>	
+
+---
+
+<div></div>
