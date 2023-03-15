@@ -8,6 +8,9 @@
   <a href="https://twitter.com/RikiTikiRD/" >
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
+  <a href="https://www.freelancer.com/u/Araah">
+     <img src="https://img.shields.io/badge/Freelancer-blue?logo=Freelancer&logoColor=white&style=for-the-badge" alt="Freelancer Badge" />
+  </a>
  </div>
  <div align="center">
  	<img src="https://komarev.com/ghpvc/?username=araah&style=flat-square&color=blue" alt=""/>
