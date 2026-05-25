@@ -27,11 +27,11 @@ Two results from that work:
   served from Cloudflare R2. That cut mapping costs by more
   than 90%.
 
-**A diving operations system for a Norwegian industrial diving
-company.** Built it in 2021 — dive logging to Norwegian
-standards. Since then it has grown to cover safety reporting
-under the national regulations as well. I've maintained and
-extended it for the company since the start.
+**A diving operations system for Skarholm Dykking, a Norwegian
+industrial diving company.** Built it in 2021 — dive logging to
+Norwegian standards. Since then it has grown to cover safety
+reporting under the national regulations as well. I've
+maintained and extended it for the company since the start.
 
 ### How I work with technology
 
