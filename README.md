@@ -1,45 +1,50 @@
-<div id="header" align="center" >
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VjOWYwZTBiMTc0NmIwNzhjZWQ0ZjVjNDdkYzMzY2MxOWU5OGRkYiZjdD1n/1XCcD9VLQZ2Io/giphy.gif" width="20vw" />
-</div>
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/rmokroborodov/" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/RikiTikiRD/" >
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
- </div>
- <div align="center">
- 	<img src="https://komarev.com/ghpvc/?username=araah&style=flat-square&color=blue" alt=""/>
-</div>	
+# Ruslan Mokroborodov
 
----
+I'm a software engineer. I build web products end to end —
+frontend, backend, and the infrastructure they run on. Mostly
+marketplaces, SaaS, and internal business systems.
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgresSQL" width="50" height="50"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp
-</div>
+Over twenty years in software. These days I usually work on
+projects that are already in production and need real work
+done: an old codebase to modernize, a slow system to make
+fast, infrastructure that costs more than it should.
 
----
+### Recent work
 
-<div align="center" >
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=araah&theme=react&hide_border=true)](https://git.io/streak-stats)
-  
+**A commercial real estate platform.** It used to be a Ruby on
+Rails application, about ten years old, working only in the US.
+I did the engineering to rebuild it into a global marketplace,
+and I still maintain it.
 
-</div>
+Two results from that work:
 
----
- 
+- The old system took 3 to 10 seconds to answer an API call.
+  After I reworked the data layer, server-side query time is
+  40–100ms, including the heaviest endpoints — geo-search that
+  returns over a thousand results. Database costs dropped by
+  about half.
+- I replaced a paid map provider with my own vector tiles,
+  served from Cloudflare R2. That cut mapping costs by more
+  than 90%.
 
+**A diving operations system for a Norwegian industrial diving
+company.** Built it in 2021 — dive logging to Norwegian
+standards. Since then it has grown to cover safety reporting
+under the national regulations as well. I've maintained and
+extended it for the company since the start.
+
+### How I work with technology
+
+I don't lead with a fixed stack. After twenty years across
+everything from low-level systems to modern web platforms,
+picking up whatever a project needs isn't the hard part —
+so I choose tools to fit the problem, not the other way
+around.
+
+### Working together
+
+I'm available for new projects. One thing to know up front:
+I work in writing only — email and chat, no calls. In
+practice it keeps the work well documented.
+
+[LinkedIn](https://www.linkedin.com/in/rmokroborodov/)
